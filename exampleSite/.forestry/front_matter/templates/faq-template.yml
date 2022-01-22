@@ -10,3 +10,5 @@ fields:
   name: response
   label: Response
   description: FAQ Response
+pages:
+- exampleSite/content/faq/Returns.md
