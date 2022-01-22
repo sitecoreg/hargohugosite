@@ -3,11 +3,10 @@ label: FAQ Template
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
+  name: question
+  label: Question
+  description: Answer to Question
 - type: text
-  name: description
-  label: description
+  name: response
+  label: Response
+  description: FAQ Response
