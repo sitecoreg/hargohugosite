@@ -2,9 +2,8 @@
 author = "John Doe"
 date = 2019-10-17T05:22:16Z
 description = "this is a meta description"
-draft = true
 image = "images/blog/post-1.jpg"
-title = "Lower Back Pain? Self-Administered Acupressure Could Help-(copy)"
+title = "Hip pain or muscle aches?"
 
 +++
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
